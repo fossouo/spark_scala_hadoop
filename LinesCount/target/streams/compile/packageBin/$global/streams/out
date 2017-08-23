@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/edureka/workspace/LinesCount/target/scala-2.10/linescount_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	donald[0m
+[0m[[0mdebug[0m] [0m	  /home/edureka/workspace/LinesCount/target/scala-2.10/classes/donald[0m
+[0m[[0mdebug[0m] [0m	donald/spark/training[0m
+[0m[[0mdebug[0m] [0m	  /home/edureka/workspace/LinesCount/target/scala-2.10/classes/donald/spark/training[0m
+[0m[[0mdebug[0m] [0m	donald/spark/training/LinesCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/edureka/workspace/LinesCount/target/scala-2.10/classes/donald/spark/training/LinesCount$.class[0m
+[0m[[0mdebug[0m] [0m	donald/spark[0m
+[0m[[0mdebug[0m] [0m	  /home/edureka/workspace/LinesCount/target/scala-2.10/classes/donald/spark[0m
+[0m[[0mdebug[0m] [0m	donald/spark/training/LinesCount.class[0m
+[0m[[0mdebug[0m] [0m	  /home/edureka/workspace/LinesCount/target/scala-2.10/classes/donald/spark/training/LinesCount.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
